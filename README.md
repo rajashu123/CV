@@ -1,2 +1,2 @@
 ## CV
-# Contains a brief intro about me.
+- Contains a brief intro about me.
